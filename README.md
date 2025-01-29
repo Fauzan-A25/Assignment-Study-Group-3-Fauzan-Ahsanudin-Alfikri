@@ -4,7 +4,7 @@ Proyek ini berisi analisis data harga saham untuk perusahaan-perusahaan teknolog
 
 ## Sumber Data
 
-Data diambil dari Kaggle dan dapat diakses melalui tautan berikut: Kaggle Dataset.
+Data diambil dari Kaggle dan dapat diakses melalui tautan berikut: [Kaggle](https://www.kaggle.com/datasets/kapturovalexander/nvidia-amd-intel-asus-msi-share-prices). Dataset ini mencakup data harga saham untuk beberapa perusahaan teknologi, termasuk AMD, NVIDIA, Intel, ASUS, dan MSI.
 
 ## Struktur Data
 
